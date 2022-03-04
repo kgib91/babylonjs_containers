@@ -9,3 +9,10 @@ Instructions:
 2. Clicking on the label will open a "Change Label" modal, where after clicking Save Changes, any value entered in the text field will be set to the label of the box.
 3. May pan around the scene using right-mouse click/drag
 4. May orbit around the center with default mouse-click/orbit-controls. 
+
+Building and Running Locally:
+1. Download ZIP and extract or clone repo
+2. Open the root folder
+3. Run npm install
+4. Run cmd npm start
+5. In a browser navigate to localhost:8080
