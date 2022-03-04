@@ -1,6 +1,7 @@
 # babylonjs_containers
 
 *Note* The babylon gui doesn't seem to easily support z-sorting with 3d labels which are clustered together, it also does not have a good default implementation of spreading the labels away when zooming out, I do not have enough time to implement this
+
 *Note* Resizing is supported only by a single corner closest to camera on initial load
 
 Instructions:
